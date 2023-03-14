@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Prinzkyd
+- 👋 Hi, I’m Prince
 -I’m interested in Javascript,Html,css,react and sql
 - 📫 How to reach me emmanuelprincewill246110@gmail.com
 
